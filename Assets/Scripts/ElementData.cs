@@ -2,6 +2,6 @@
 
 public class ElementData : MonoBehaviour
 {
-    [SerializeField] public ScenarioModel.actionsSet[] actions;
+    [SerializeField] public ScenarioModel.actionsSet[]  actions;
    
 }
